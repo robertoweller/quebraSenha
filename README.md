@@ -6,7 +6,8 @@ Faz um brute force tentando descobrir qual é a senha do md5, usando letras, min
 * Python 3.6+
 
 ### Uso
-`python3 force_md5.py` \n
+`python3 force_md5.py`
+
 `Cole no terminal a hash e de Enter`
 
 ### Configurações opcionais
