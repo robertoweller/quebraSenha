@@ -5,10 +5,13 @@ Faz um brute force tentando descobrir qual é a senha do md5, usando letras, min
 
 * Python 3.6+
 
-### Uso
+### No ubuntu execute esses comandos no terminal
+`git clone https://github.com/robertoweller/quebraSenha.git`
+
+`cd quebraSenha/`
+
 `python3 main.py`
 
-`Cole no terminal a hash e de Enter`
 
 ### Configurações opcionais
 `Para usar caracteres especiais descomente a linha 23 do arquivo main.py`
