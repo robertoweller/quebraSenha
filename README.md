@@ -5,7 +5,7 @@ Faz um brute force tentando descobrir qual é a senha do md5, usando letras, min
 
 * Python 3.6+
 
-### No ubuntu execute esses comandos no terminal
+### No Linux execute esses comandos no terminal
 `git clone https://github.com/robertoweller/quebraSenha.git`
 
 `cd quebraSenha/`
